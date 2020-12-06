@@ -13,7 +13,7 @@ Variables used:
 
  T1, T2 -> tables used for the imported data of water and carbon dioxide 
 
- NTU,R -> constants representing Number of transfer units and hear capacity ratio respectively. 
+ NTU,R -> constants representing Number of transfer units and heat capacity ratio respectively. 
 
  n -> number of elements, input is taken from the user
 
