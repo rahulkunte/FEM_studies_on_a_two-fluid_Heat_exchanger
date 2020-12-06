@@ -82,4 +82,4 @@ Variables used:
   
   
   
-For the marching method, the stiffness [K] matrix is kept of a constant size, 4x4 throughout for n elements. Each iteration proceeds for a single element and nodal     temperatures are found by inverting the K matrix and the values are stored in the X matrix.
+For the marching method, the stiffness [K] matrix is kept of a constant size, 4x4 throughout for n elements. Each iteration proceeds for a single element and nodal     temperatures are found by inverting the [K] matrix and the values are stored in the X matrix.
